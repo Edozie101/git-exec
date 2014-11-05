@@ -34,7 +34,7 @@
   * < git commit -m "MESSAGE" >
 
 * Commit using the -m flag with a multi-line description
-  * < git commit -m "" >
+  * < git commit -m "this is one line >this is another" >
 
 * Push your local repository to github (assume your remote is already set)
   * < git push -u >
@@ -49,13 +49,13 @@
   * <git pull <name> >
 
 * Show the history of a git repository
-  * < your answer here >
+  * < git log >
 
 * Show a log of your commit history
-  * < your answer here >
+  * < git log  >
 
 * Roll back to a specific commit in history
-  * < your answer here >
+  * < git checkout commitID >
 
 #### You should understand the following:
 
