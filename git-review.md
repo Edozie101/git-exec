@@ -19,34 +19,34 @@
   * < git status >
 
 * Initialize a git repository in a newly created local directory
-  *< git init >
+  * < git init >
 
 * Display the status of a repository
   * < git status >
 
 * Identify if files are staged or not
-  * < your answer here >
+  * < git status >
 
 * Add a file to the staging area
-  * < your answer here >
+  * < git add <file>  >
 
 * Commit the contents of the staging area using the -m flag
-  * < your answer here >
+  * < git commit -m "MESSAGE" >
 
 * Commit using the -m flag with a multi-line description
-  * < your answer here >
+  * < git commit -m "" >
 
 * Push your local repository to github (assume your remote is already set)
-  * < your answer here >
+  * < git push -u >
 
 * Add a remote to your repository
-  * < your answer here >
+  * < git remote add (URL)>
 
 * Change an existing remote
-  * < your answer here >
+  * < git remote set-url origin    https://github.com/USERNAME/REPOSITORY2.git >
 
 * Pull changes from a shared github repo to your local repo
-  * < your answer here >
+  * <git pull <name> >
 
 * Show the history of a git repository
   * < your answer here >
