@@ -46,7 +46,7 @@
   * < git remote set-url origin    https://github.com/USERNAME/REPOSITORY2.git >
 
 * Pull changes from a shared github repo to your local repo
-  * <git pull <name> >
+  * < git pull <name> >
 
 * Show the history of a git repository
   * < git log >
