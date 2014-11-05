@@ -16,13 +16,13 @@
 #### Get started!
 
 * Display your working directory
-  * < your answer here >
+  * < git status >
 
 * Initialize a git repository in a newly created local directory
-  * < your answer here >
+  *< git init >
 
 * Display the status of a repository
-  * < your answer here >
+  * < git status >
 
 * Identify if files are staged or not
   * < your answer here >
